@@ -1,17 +1,154 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="02ed9b41-2cee-4520-a793-ee90a2c6f2ff" name="Default Changelist" comment="" />
+    <list default="true" id="02ed9b41-2cee-4520-a793-ee90a2c6f2ff" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.HelixJump/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.HelixJump/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.HelixJump/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.HelixJump/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Helix Jump/Matrials/Central Axis.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Helix Jump/Matrials/Central Axis.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Helix Jump/Scenes/Scene_Game.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Helix Jump/Scenes/Scene_Game.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/DynamicsManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/DynamicsManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Helix Jump/Scripts/Ball.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="29" column="49" selection-start-line="29" selection-start-column="49" selection-end-line="29" selection-end-column="49" />
+              <folding>
+                <marker date="1655587043009" expanded="false" signature="6:78" ph="..." />
+                <marker date="1655587043009" expanded="true" signature="113:777" ph="{...}" />
+                <marker date="1655587043009" expanded="true" signature="311:370" ph="{...}" />
+                <marker date="1655587043009" expanded="true" signature="423:688" ph="{...}" />
+                <marker date="1655587043009" expanded="true" signature="450:559" ph="{...}" />
+                <marker date="1655587043009" expanded="true" signature="612:682" ph="{...}" />
+                <marker date="1655587043009" expanded="true" signature="739:775" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Helix Jump/Scripts/HelixRotator.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="14" column="61" selection-start-line="14" selection-start-column="61" selection-end-line="14" selection-end-column="61" />
+              <folding>
+                <marker date="1655586158932" expanded="false" signature="6:78" ph="..." />
+                <marker date="1655586158932" expanded="true" signature="121:687" ph="{...}" />
+                <marker date="1655586158932" expanded="true" signature="203:512" ph="{...}" />
+                <marker date="1655586158932" expanded="true" signature="309:357" ph="{...}" />
+                <marker date="1655586158932" expanded="true" signature="457:506" ph="{...}" />
+                <marker date="1655586158932" expanded="true" signature="562:685" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Helix Jump/Scripts/GameManager.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="396">
+              <caret line="20" column="39" lean-forward="true" selection-start-line="20" selection-start-column="39" selection-end-line="20" selection-end-column="39" />
+              <folding>
+                <marker date="1655587000584" expanded="false" signature="6:78" ph="..." />
+                <marker date="1655587000584" expanded="true" signature="120:452" ph="{...}" />
+                <marker date="1655587000584" expanded="true" signature="209:375" ph="{...}" />
+                <marker date="1655587000584" expanded="true" signature="262:315" ph="{...}" />
+                <marker date="1655587000584" expanded="true" signature="320:369" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Helix Jump/Scripts/HelixManager.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="297">
+              <caret line="50" selection-start-line="50" selection-end-line="50" />
+              <folding>
+                <marker date="1655568469928" expanded="false" signature="6:131" ph="..." />
+                <marker date="1655568469928" expanded="true" signature="174:1903" ph="{...}" />
+                <marker date="1655568469928" expanded="true" signature="535:688" ph="{...}" />
+                <marker date="1655568469928" expanded="true" signature="637:682" ph="{...}" />
+                <marker date="1655568469928" expanded="true" signature="720:1142" ph="{...}" />
+                <marker date="1655568469928" expanded="true" signature="814:1136" ph="{...}" />
+                <marker date="1655568469928" expanded="true" signature="1176:1504" ph="{...}" />
+                <marker date="1655568469928" expanded="true" signature="1265:1364" ph="{...}" />
+                <marker date="1655568469928" expanded="true" signature="1538:1733" ph="{...}" />
+                <marker date="1655568469928" expanded="true" signature="1761:1901" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Helix Jump/Scripts/Collector.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+              <folding>
+                <marker date="1655565848434" expanded="false" signature="6:78" ph="..." />
+                <marker date="1655565848434" expanded="true" signature="118:316" ph="{...}" />
+                <marker date="1655565848434" expanded="true" signature="224:314" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Helix Jump/Scripts/FollowCamera.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="18" column="63" selection-start-line="18" selection-start-column="63" selection-end-line="18" selection-end-column="63" />
+              <folding>
+                <marker date="1655584500460" expanded="false" signature="6:78" ph="..." />
+                <marker date="1655584500460" expanded="true" signature="121:572" ph="{...}" />
+                <marker date="1655584500460" expanded="true" signature="271:338" ph="{...}" />
+                <marker date="1655584500460" expanded="true" signature="361:570" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Helix Jump/Scripts/Collector.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Helix Jump/Scripts/FollowCamera.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Helix Jump/Scripts/GameManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Helix Jump/Scripts/Ball.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Helix Jump/Scripts/HelixRotator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Helix Jump/Scripts/HelixManager.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Helix Jump/Scripts/HelixController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Helix Jump/Scripts/Collector.cs" />
+        <option value="$PROJECT_DIR$/Assets/Helix Jump/Scripts/HelixManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Helix Jump/Scripts/FollowCamera.cs" />
+        <option value="$PROJECT_DIR$/Assets/Helix Jump/Scripts/HelixRotator.cs" />
+        <option value="$PROJECT_DIR$/Assets/Helix Jump/Scripts/GameManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Helix Jump/Scripts/Ball.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="699" />
@@ -54,6 +191,20 @@
       </list>
     </option>
   </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -64,12 +215,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1655537183022</updated>
-      <workItem from="1655537195043" duration="470000" />
+      <workItem from="1655537195043" duration="14907000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="470000" />
+    <option name="totallyTimeSpent" value="14907000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -81,12 +232,13 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info id="Image Layers" />
       <window_info id="Capture Tool" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.24962178" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="NuGet" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
@@ -112,6 +264,36 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
+    <layout-to-restore>
+      <window_info id="Image Layers" order="0" />
+      <window_info id="Capture Tool" order="1" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="3" visible="true" weight="0.24962178" />
+      <window_info id="Structure" order="4" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="NuGet" order="0" />
+      <window_info anchor="bottom" id="Docker" order="1" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unity" order="2" />
+      <window_info anchor="bottom" id="Unit Tests" order="3" />
+      <window_info anchor="bottom" id="Terminal" order="4" />
+      <window_info anchor="bottom" id="Event Log" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Performance Profiler" order="8" />
+      <window_info anchor="bottom" id="Message" order="9" />
+      <window_info anchor="bottom" id="Find" order="10" />
+      <window_info anchor="bottom" id="Run" order="11" />
+      <window_info anchor="bottom" id="Debug" order="12" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="13" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="14" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="15" />
+      <window_info anchor="right" id="Capture Analysis" order="0" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="1" />
+      <window_info anchor="right" id="Errors In Solution" order="2" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="4" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="5" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="6" weight="0.25" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -127,6 +309,97 @@
         </breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/Helix Jump/Scripts/Collector.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+          <folding>
+            <marker date="1655565848434" expanded="false" signature="6:78" ph="..." />
+            <marker date="1655565848434" expanded="true" signature="118:316" ph="{...}" />
+            <marker date="1655565848434" expanded="true" signature="224:314" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Helix Jump/Scripts/HelixManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="50" selection-start-line="50" selection-end-line="50" />
+          <folding>
+            <marker date="1655568469928" expanded="false" signature="6:131" ph="..." />
+            <marker date="1655568469928" expanded="true" signature="174:1903" ph="{...}" />
+            <marker date="1655568469928" expanded="true" signature="535:688" ph="{...}" />
+            <marker date="1655568469928" expanded="true" signature="637:682" ph="{...}" />
+            <marker date="1655568469928" expanded="true" signature="720:1142" ph="{...}" />
+            <marker date="1655568469928" expanded="true" signature="814:1136" ph="{...}" />
+            <marker date="1655568469928" expanded="true" signature="1176:1504" ph="{...}" />
+            <marker date="1655568469928" expanded="true" signature="1265:1364" ph="{...}" />
+            <marker date="1655568469928" expanded="true" signature="1538:1733" ph="{...}" />
+            <marker date="1655568469928" expanded="true" signature="1761:1901" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Helix Jump/Scripts/FollowCamera.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="18" column="63" selection-start-line="18" selection-start-column="63" selection-end-line="18" selection-end-column="63" />
+          <folding>
+            <marker date="1655584500460" expanded="false" signature="6:78" ph="..." />
+            <marker date="1655584500460" expanded="true" signature="121:572" ph="{...}" />
+            <marker date="1655584500460" expanded="true" signature="271:338" ph="{...}" />
+            <marker date="1655584500460" expanded="true" signature="361:570" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Helix Jump/Scripts/GameManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="20" column="39" lean-forward="true" selection-start-line="20" selection-start-column="39" selection-end-line="20" selection-end-column="39" />
+          <folding>
+            <marker date="1655587000584" expanded="false" signature="6:78" ph="..." />
+            <marker date="1655587000584" expanded="true" signature="120:452" ph="{...}" />
+            <marker date="1655587000584" expanded="true" signature="209:375" ph="{...}" />
+            <marker date="1655587000584" expanded="true" signature="262:315" ph="{...}" />
+            <marker date="1655587000584" expanded="true" signature="320:369" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Helix Jump/Scripts/HelixRotator.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="14" column="61" selection-start-line="14" selection-start-column="61" selection-end-line="14" selection-end-column="61" />
+          <folding>
+            <marker date="1655586158932" expanded="false" signature="6:78" ph="..." />
+            <marker date="1655586158932" expanded="true" signature="121:687" ph="{...}" />
+            <marker date="1655586158932" expanded="true" signature="203:512" ph="{...}" />
+            <marker date="1655586158932" expanded="true" signature="309:357" ph="{...}" />
+            <marker date="1655586158932" expanded="true" signature="457:506" ph="{...}" />
+            <marker date="1655586158932" expanded="true" signature="562:685" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Helix Jump/Scripts/Ball.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="29" column="49" selection-start-line="29" selection-start-column="49" selection-end-line="29" selection-end-column="49" />
+          <folding>
+            <marker date="1655587043009" expanded="false" signature="6:78" ph="..." />
+            <marker date="1655587043009" expanded="true" signature="113:777" ph="{...}" />
+            <marker date="1655587043009" expanded="true" signature="311:370" ph="{...}" />
+            <marker date="1655587043009" expanded="true" signature="423:688" ph="{...}" />
+            <marker date="1655587043009" expanded="true" signature="450:559" ph="{...}" />
+            <marker date="1655587043009" expanded="true" signature="612:682" ph="{...}" />
+            <marker date="1655587043009" expanded="true" signature="739:775" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
   </component>
   <component name="masterDetails">
     <states>
